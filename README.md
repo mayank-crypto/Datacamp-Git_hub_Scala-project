@@ -1,2 +1,2 @@
 # Datacamp-Git_hub_Scala-project
-This Project Consists of Git Hub Hostory of Scala Language
+This Project Consists of Git Hub History of Scala Language
